@@ -1,9 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjun9&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
 
 <div align=center>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjun9&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+  
   <h3>🛠 Tech Stack 🛠</h3>
   <p style="font-size:20px;"><b>Techs that I've used at least once</b></p>
 
