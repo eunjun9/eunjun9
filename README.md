@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&customColorList=0,2,2,5,30&height=300&section=header&text=Eunjung%20Won&fontSize=70&fontColor=ffffff)
 
-<div align="center">
+<div align=center>
     <p style="font-size:20px;">🛠 <b>Tech Stack</b> 🛠<p>
     <p style="font-size:15px;"><b>Techs that I've used at least once</b></p>
   
