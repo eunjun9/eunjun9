@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&customColorList=0,2,2,5,30&height=300&section=header&text=Eunjung%20Won&fontSize=70&fontColor=ffffff)
 
 <div align=center>
-  <p style="font-size:20px;">🛠 <b>Tech Stack</b> 🛠<p>
-  <p style="font-size:15px;"><b>Techs that I've used at least once</b></p>
+  <p style="font-size:25px;">🛠 <b>Tech Stack</b> 🛠<p>
+  <p style="font-size:20px;"><b>Techs that I've used at least once</b></p>
 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
-  <br><br>
+  <br><br><br>
 
-  <p style="font-size:20px;">🍑 <b>ME</b> 🍑</p>
+  <p style="font-size:25px;">🍑 <b>ME</b> 🍑</p>
 
   <a href="mailto:nue0618@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
