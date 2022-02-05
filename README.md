@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&customColorList=0,2,2,5,30&height=300&section=header&fontSize=70&fontColor=ffffff)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjun9&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -40,4 +39,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&customColorList=0,2,2,5,30&height=300&section=header&text=Eunjung%20Won&fontSize=70&fontColor=ffffff)
 -->
