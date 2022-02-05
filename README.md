@@ -1,7 +1,4 @@
-
-<a href="https://github.com/eunjun9/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eunjun9&show_icons=true&theme=buefy&repo=github-readme-stats" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjun9&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
   <h3>🛠 Tech Stack 🛠</h3>
