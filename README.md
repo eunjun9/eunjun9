@@ -1,7 +1,5 @@
-<center>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjun9&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-</center>  
-  
+### Hi There 👋
+
 <div align=center>
   <h3>🛠 Tech Stack 🛠</h3>
   <p style="font-size:20px;"><b>Techs that I've used at least once</b></p>
@@ -26,6 +24,8 @@
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunjun9&count_bg=%23FF8D8D&title_bg=%23938282&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjun9&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **eunjun9/eunjun9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
