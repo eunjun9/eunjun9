@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&customColorList=0,2,2,5,30&height=300&section=header&text=Eunjung%20Won&fontSize=70&fontColor=ffffff)
 
 <div align=center>
   <h3>🛠 Tech Stack 🛠</h3>
@@ -43,5 +44,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&customColorList=0,2,2,5,30&height=300&section=header&text=Eunjung%20Won&fontSize=70&fontColor=ffffff)
 -->
