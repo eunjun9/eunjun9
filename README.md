@@ -1,6 +1,5 @@
-<p align=center>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjun9&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-</p>
   
 <div align=center>
   <h3>🛠 Tech Stack 🛠</h3>
